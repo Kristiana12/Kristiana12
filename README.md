@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kristiana
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning HTML, CSS, Sass & Javascript
-- 💞️ I’m looking forward to collaborate with other people in this field.
+- 🌱 I’m currently learning HTML, CSS, Sass, Javascript & React.
+- 💞️ I’m looking forward to collaborate with other developers.
 - 📫 How to reach me: per E-mail on kristiana.leka@gmx.at
 
 <!---
