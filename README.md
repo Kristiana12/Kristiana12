@@ -13,13 +13,13 @@
 
 <br>
 
-- 🔭 I'm currently working on **programming projects with best practises**
+- 🔭 I'm currently working on **improving my problem solving skills**
 
-- 🌱 I’m currently learning **React, Git, Github**
+- 🌱 I’m currently learning **React, Git, Testing**
 
 - 📫 How to reach me **kristiana.leka@gmx.at**
 
-- ⚡ Fun fact **When not on my computer I'm watching anime**
+- ⚡ Fun fact **When not on my computer I'm watching anime or K-dramas**
 
 <br><br>
 
