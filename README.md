@@ -23,6 +23,17 @@
 
 <br><br>
 
+### 👩 &nbsp;Learning Resources
+
+<br>
+
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)&nbsp;
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) &nbsp;
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A) &nbsp;
+
+<br><br>
+
 ### 🛠 &nbsp;Languages and Tools:
 
 <br>
@@ -56,4 +67,3 @@
 <a href="https://www.instagram.com/kristianalk/" target="_blank"><img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a> &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100001574024815" target="_blank" ><img src=https://img.shields.io/badge/facebook-%ff5851db.svg?color=3B5998&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" /></a>
 </p>
-
