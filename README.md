@@ -15,7 +15,7 @@
 
 - 🔭 I'm currently working on **improving my problem solving skills**
 
-- 🌱 I’m currently learning **React, Git, Testing**
+- 🌱 I’m currently learning **React, Wordpress**
 
 - 📫 How to reach me **kristiana.leka@gmx.at**
 
