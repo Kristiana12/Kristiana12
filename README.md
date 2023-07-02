@@ -9,7 +9,7 @@
 
 ### 👩‍💻 &nbsp;About Me
 
-> I enjoy creating responsive websites with smooth animations.
+> I enjoy creating interactive, responsive websites with smooth animations.
 
 <br>
 
