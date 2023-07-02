@@ -3,13 +3,13 @@
 
 <h1 align="center">Hi there, I'm Kristiana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=3000&pause=1000&color=C900FC&background=0F082300&center=true&vCenter=true&width=470&lines=A+Junior+Frontend+Developer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=3000&pause=1000&color=C900FC&background=0F082300&center=true&vCenter=true&width=470&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a></p>
 
 <br>
 
 ### 👩‍💻 &nbsp;About Me
 
-> I am a self-taught Frontend Developer who loves to create responsive websites wih smooth animations.
+> I enjoy creating responsive websites with smooth animations.
 
 <br>
 
